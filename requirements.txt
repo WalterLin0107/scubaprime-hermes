@@ -1,8 +1,5 @@
 fastapi
 uvicorn
-python-telegram-bot==13.7
-openai
-anthropic
-google-generativeai
-pydantic
 requests
+pydantic
+python-multipart
